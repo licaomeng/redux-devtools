@@ -3,3 +3,9 @@ node_modules
 .DS_Store
 lib
 coverage
+
+.idea/
+examples/counter/.idea/
+examples/counter/package-lock.json
+examples/todomvc/package-lock.json
+package-lock.json
